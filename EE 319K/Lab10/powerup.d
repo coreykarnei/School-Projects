@@ -1,0 +1,11 @@
+.\powerup.o: Powerup.c
+.\powerup.o: tm4c123gh6pm.h
+.\powerup.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\powerup.o: Bitmaps.h
+.\powerup.o: Powerup.h
+.\powerup.o: Character.h
+.\powerup.o: Screen.h
+.\powerup.o: ST7735.h
+.\powerup.o: Random.h
+.\powerup.o: HotPotato.h
+.\powerup.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h

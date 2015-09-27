@@ -1,0 +1,10 @@
+.\twoplayer.o: TwoPlayer.c
+.\twoplayer.o: tm4c123gh6pm.h
+.\twoplayer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\twoplayer.o: Character.h
+.\twoplayer.o: Bitmaps.h
+.\twoplayer.o: FIFO.h
+.\twoplayer.o: ST7735.h
+.\twoplayer.o: UART1.h
+.\twoplayer.o: Screen.h
+.\twoplayer.o: AI.h

@@ -1,0 +1,3 @@
+const unsigned short blue[] = {
+ 0xF77C,
+};
